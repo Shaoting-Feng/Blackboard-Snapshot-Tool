@@ -1,1 +1,0 @@
-# Blackboard-Snapshot-Tool
