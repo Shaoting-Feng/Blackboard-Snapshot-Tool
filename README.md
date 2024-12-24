@@ -16,7 +16,3 @@ The Blackboard Snapshot Tool is a compact, extendable camera device designed to 
 1. Set up the camera device in the classroom.
 2. Run the software to start capturing and processing blackboard notes.
 3. Access the processed images from the output directory.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
