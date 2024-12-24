@@ -12,7 +12,7 @@ The Blackboard Snapshot Tool is a compact, extendable camera device designed to 
 - **Extendable**: Can be extended to cover larger blackboards or different angles.
 
 ## Product
-![210109 工导作品](https://github.com/user-attachments/assets/d86a2f61-bf89-4410-9878-d0c12d0e3757)
+<img src="https://github.com/user-attachments/assets/d86a2f61-bf89-4410-9878-d0c12d0e3757" alt="描述" width="500"/>
 
 ## Usage
 
